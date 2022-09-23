@@ -1,5 +1,8 @@
+
 body {
-    background-color: #dbe3e6;
+    background-color:  #dbe3e6;
+    margin-left: 10%;
+    margin-right: 10%;
 }
  
 .header{
@@ -11,13 +14,21 @@ body {
 .column{
     float: left;
     width: 40%;
+    margin-right: 20%;
+    margin-bottom: 20%;
+}
+
+.column.text{
+    float: right;
+    width: 40%;
     margin-right: 10%;
+    margin-left: 10%;
 }
 
 /* The navbar container */
  .topnav {
     overflow: hidden;
-    background-color: #a6a6a6;
+    background-color: #808080;
   }
   
   /* Navbar links */
@@ -42,21 +53,15 @@ div.desc {
     text-align: center;
   }
 
-div.gallery {
-    margin: 5px;
-    float: center;
-    width: 180px;
-  }
-
 
 img {
     display: block;
-    margin-left: 70%;
+    margin-left: 60%;
     margin-top: 15%;
     margin-right: auto;
     border-radius: 20%;
-  }
 
+  }
 
 h1 {
     color: #29acbb;
