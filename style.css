@@ -10,8 +10,8 @@ h1 {
     border-width: 5px 5px; 
     margin-top: 1%;
     margin-bottom: 1%;
-    margin-right: 20%;
-    margin-left: 20%;
+    margin-right: 40%;
+    margin-left: 40%;
 }
 
 p {
@@ -24,3 +24,10 @@ p {
 
 ul { text-align: center;
 }
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
