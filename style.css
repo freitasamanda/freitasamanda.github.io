@@ -1,33 +1,70 @@
 body {
     background-color: #dbe3e6;
 }
+ 
+.header{
+    background-color: #dbe3e6;
+    text-align: left;
+    padding: 10px;
+}
+
+.column{
+    float: left;
+    width: 40%;
+    margin-right: 10%;
+}
+
+/* The navbar container */
+ .topnav {
+    overflow: hidden;
+    background-color: #a6a6a6;
+  }
+  
+  /* Navbar links */
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Links - change color on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  } 
+
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+div.gallery {
+    margin: 5px;
+    float: center;
+    width: 180px;
+  }
+
+
+img {
+    display: block;
+    margin-left: 70%;
+    margin-top: 15%;
+    margin-right: auto;
+    border-radius: 20%;
+  }
+
 
 h1 {
     color: #29acbb;
     text-align: center;
-    border-color:#a6a6a6; 
-    border-style: solid;
-    border-width: 5px 5px; 
-    margin-top: 1%;
-    margin-bottom: 1%;
-    margin-right: 40%;
-    margin-left: 40%;
 }
 
 p {
    text-align: justify; 
-    margin-top: 1%;
-    margin-bottom: 1%;
-    margin-right: 10%;
-    margin-left: 10%;
+   margin-left: 3%;
+   margin-bottom: 3%;
 }
-
-ul { text-align: center;
-}
-
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
