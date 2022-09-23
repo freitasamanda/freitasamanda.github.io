@@ -28,6 +28,9 @@ Grande área: Ciências Humanas
 Grande Área: Ciências Humanas / Área: Ciência Política / Subárea: Comunicação Política.
 Monitoramento e análise de dados do Twitter na linguagem de programação R e utilizando o software Gephi
 
+
+
+
 FEV 2018 - FEV 2022
 Graduação em Ciências Sociais.
 Universidade Federal de São Paulo, UNIFESP, Brasil.
@@ -36,10 +39,15 @@ Orientador: Prof. Dr. Rogério Schlegel.
 Bolsista do(a): Fundação de Amparo à Pesquisa do Estado de São Paulo, FAPESP, Brasil.
 
 
+
+
 JAN 2017 - AGO 2017
 Tecnólogo Produção e Gestão de Mídias Sociais (Curso trancado)
 Universidade Anhembi Morumbi
 Competências: Gestão de mídias sociais, criação de conteúdo para web, uso de ferramentas de edição de imagem e vídeo, automatização de calendário de conteúdo com Buffer e técnicas de marketing digital com SEO, Google AdWords, Google AdSense e Facebook Ads
+
+
+
 
 JAN 2016 - JUL 2016
 Letras, Universidade Nove de Julho (UNINOVE)
