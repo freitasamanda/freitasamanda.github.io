@@ -11,7 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* Mestrado em andamento em Ciência Política, Universidade de São Paulo, USP, Brasil (Conceito CAPES 7).
+ <i>Título:</i> Polarização política e desinformação em períodos eleitorais: um mapeamento das eleições presidenciais de 2022 a partir do Twitter.
+
+<i>Orientador:</i> Prof. Dr. Glauco Peres da Silva.
+
+<i>Palavras-chave:</i> Eleições; Comunicação Política; Desinformação; Redes Sociais; Polarização Política.
+
+Grande área: Ciências Humanas.
+
+Grande Área: Ciências Humanas / Área: Ciência Política / Subárea: Comunicação Política
+
+
+
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
