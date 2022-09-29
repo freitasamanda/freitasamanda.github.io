@@ -78,7 +78,34 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
+Apresentações em Congressos e Seminários
+======
+* <b>2022 - Apresentação de Pôster</b>
+  * Bots on Social Media: Theoretical and Methodological Challenges for the Field of Political Behavior and Communication
+  * [Session 11 - Bridging the gap of computational structural and hermeneutic approaches in discourse analysis](https://gcsmus.org/conferences/brazil/sessions/11-bridging-the-gap-of-computational-structural-and-hermeneutic-approaches-in-discourse-analysis/)
+  * 2nd International and Interdisciplinary Conference on Spatial Methods for Urban Sustainability (SMUS Conference)
+* <b>2021 - Apresentação de Paper </b>
+  * Os impactos eleitorais das redes sociais: entraves para o letramento digital
+  * [6º Workshop Comportamento Político e Opinião Pública]´(https://sites.google.com/view/workshopcomportamento)
+  * Associação Brasileira de Ciência Política (ABCP)
+* <b> 2021 - Apresentação de Paper </b>
+  * Direitos Reprodutivos e Sexuais das Mulheres: Análise da Constituição Brasileira
+  * [Current Trends in Research on Spain, Portugal, and Latin America - Swansea University](https://www.swansea.ac.uk/arts-and-humanities/arts-and-humanities-research/arts-and-humanities-research-centres-and-groups/cepsam/)
+  * Apresentação de Paper em co-autoria com RODRIGUES, M.
+* <b> 2021 - Apresentação de Paper </b>
+  * Redes sociais e polarização política em períodos eleitorais: impactos para o combate à desinformação
+  * [3ª Jornada Discente do PPGCP-UNIRIO](http://www.unirio.br/ppgcp/iii-jornada-discente-do-programa-de-pos-graduacao-em-ciencia-politica-da-unirio) Desalinhamentos e Reconfigurações: perspectivas plurais no cenário político</a> 
+  * Programa de Pós-Graduação em Ciência Política - UNIRIO.
+* <b> 2021 - Apresentação de Paper </b>
+  * WOMEN’S REPRODUCTIVE AND SEXUAL RIGHTS: CURRENT DEBATE ON BRAZILIAN POLITICS
+  * [24th Latin American Social and Public Policy (LASPP) Conference](https://www.ucis.pitt.edu/clas/events/24th-latin-american-social-and-public-policy-laspp-conference-0) Center for Latin American Studies, University of Pittsburgh
+  * Apresentação de Paper em co-autoria com RODRIGUES, M.
+* <b> 2020 - Apresentação de Pôster </b>
+  * NOVA POLÍTICA? O IMPACTO ELEITORAL DAS NOVAS TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO
+  * [VI Congresso Acadêmico Unifesp: ciência e universidade: transformações para a sociedade](https://www.congressoacademico.sites.unifesp.br/noticias-2020/anais-do-vi-congresso-academico-unifesp)
+  * Universidade Federal de São Paulo (UNIFESP)
 
 Entrevistas na Mídia
 ======
