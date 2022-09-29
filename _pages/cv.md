@@ -36,7 +36,7 @@ Formação
 
 * <b>Licenciatura em Letras - Inglês</b>, Universidade Nove de Julho (JAN 2016 - AGO 2016 -Curso trancado)
 
----
+
 Experiência
 ======
 
@@ -62,7 +62,7 @@ Experiência
     * <i>JANEIRO DE 2016 - JULHO DE 2018</i>
     * Preparatório para vestibular e reforço de alunos de ensino médio, aulas de redação, gramática inglesa e portuguesa  e literatura luso-brasileira.
 
----
+
 Prêmios
 ======
 * Prêmio Mário Fuks de Melhor Pôster no 6º Workshop de Comportamento Político e Opinião Pública, 
@@ -73,14 +73,14 @@ Prêmios
   * SPCine e ESPM
   * Projeto You'll Never Walk Alone, 2019
 
----
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
----
+
 Apresentações em Congressos e Seminários
 ======
 * <b>2022 - Apresentação de Pôster</b>
@@ -112,20 +112,18 @@ Apresentações em Congressos e Seminários
   * [5º Seminário Discente do PPGCS/UFCG: Cientistas Sociais no Intenso Agora: pandemia, pesquisas e vivências](https://discentesppgcsufcg.wixsite.com/vseminario)
   * Programa de Pós-Graduação em Ciências Sociais - Universidade Federal de Campina Grande (UFCG)
 
----
+
 Entrevistas na Mídia
 ======
 * [Entrevista sobre polarização política e desinformação em redes sociais nas eleições municipais de 2020](https://blogs.oglobo.globo.com/sonar-a-escuta-das-redes/post/apos-polarizacao-de-2018-eleitor-evita-confrontos-nas-redes-sociais.html)
   * Jornal O Globo
 
----
 Trabalhos como Social Media e Divulgação de Ciência
 ======
 * <b>[Ubuntu Diário - tecnologia e software livre](https://www.instagram.com/ubuntudiario/)</b> - hostess do podcast, criadora de conteúdo, colunista.
 * <b>[Clio Operária - teoria e ação política marxista](https://www.instagram.com/cliooperaria/)</b> - hostess do podcast, colunista
 * <b>[Lavra Palavra – portal de artigos teóricos marxistas](https://lavrapalavra.com/?s=Amanda+Freitas)</b>
 
----
 Habilidades
 ======
 ### 2022
