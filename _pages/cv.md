@@ -36,7 +36,7 @@ Formação
 
 * <b>Licenciatura em Letras - Inglês</b>, Universidade Nove de Julho (JAN 2016 - AGO 2016 -Curso trancado)
 
-
+---
 Experiência
 ======
 
@@ -62,6 +62,7 @@ Experiência
     * <i>JANEIRO DE 2016 - JULHO DE 2018</i>
     * Preparatório para vestibular e reforço de alunos de ensino médio, aulas de redação, gramática inglesa e portuguesa  e literatura luso-brasileira.
 
+---
 Prêmios
 ======
 * Prêmio Mário Fuks de Melhor Pôster no 6º Workshop de Comportamento Político e Opinião Pública, 
@@ -72,14 +73,14 @@ Prêmios
   * SPCine e ESPM
   * Projeto You'll Never Walk Alone, 2019
 
-
+---
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-
+---
 Apresentações em Congressos e Seminários
 ======
 * <b>2022 - Apresentação de Pôster</b>
@@ -106,38 +107,40 @@ Apresentações em Congressos e Seminários
   * NOVA POLÍTICA? O IMPACTO ELEITORAL DAS NOVAS TECNOLOGIAS DE INFORMAÇÃO E COMUNICAÇÃO
   * [VI Congresso Acadêmico Unifesp: ciência e universidade: transformações para a sociedade](https://www.congressoacademico.sites.unifesp.br/noticias-2020/anais-do-vi-congresso-academico-unifesp)
   * Universidade Federal de São Paulo (UNIFESP)
+* 2020 - Apresentação de Pôster
+  * Nova política? O impacto eleitoral das campanhas de desinformação nas redes sociais
+  * [5º Seminário Discente do PPGCS/UFCG: Cientistas Sociais no Intenso Agora: pandemia, pesquisas e vivências](https://discentesppgcsufcg.wixsite.com/vseminario)
+  * Programa de Pós-Graduação em Ciências Sociais - Universidade Federal de Campina Grande (UFCG)
 
+---
 Entrevistas na Mídia
 ======
 * [Entrevista sobre polarização política e desinformação em redes sociais nas eleições municipais de 2020](https://blogs.oglobo.globo.com/sonar-a-escuta-das-redes/post/apos-polarizacao-de-2018-eleitor-evita-confrontos-nas-redes-sociais.html)
   * Jornal O Globo
 
-
+---
 Trabalhos como Social Media e Divulgação de Ciência
 ======
 * <b>[Ubuntu Diário - tecnologia e software livre](https://www.instagram.com/ubuntudiario/)</b> - hostess do podcast, criadora de conteúdo, colunista.
 * <b>[Clio Operária - teoria e ação política marxista](https://www.instagram.com/cliooperaria/)</b> - hostess do podcast, colunista
 * <b>[Lavra Palavra – portal de artigos teóricos marxistas](https://lavrapalavra.com/?s=Amanda+Freitas)</b>
 
+---
 Habilidades
 ======
 ### 2022
 * [Below the Radar: Investigating Far-Right Groups on Telegram with ElasticSearch + Kibana](https://gcsmus.org/conferences/brazil/courses/below-the-radar-investigating-far-right-groups-on-telegram-with-elasticsearch-kibana) - SMUS Conference Brazil (Carga Horária: 6h).
 * R e Análise de Dados para Ciência Política – USP, Universidade de São Paulo (Carga horária: 64h).
 * Faxina de Dados: Introdução e melhores práticas em Data Cleaning  - [Curso-R](https://curso-r.com/) (Carga horária: 12h)
-
 ### 2021
 * Análise de Redes Sociais com Gephi - [IBPAD](https://ibpad.com.br/analise-de-redes-para-midias-sociais/), Instituto Brasileiro de Pesquisa e Análise de Dados (Carga horária: 36h).
 * Git e GitHub – Udemy (Carga horária: 12h).
 * Análise de Redes com SocNetV e Gephi - [CEBRAP.LAB](https://cebrap.org.br/cebrap-lab/), Centro Brasileiro de Análise e Planejamento (Carga horária – 15h).
-
 ### 2020
 * Formação de Ciência de Dados em R e Python – Udemy (Carga Horária: 50h).
 * Estatística para Ciências Sociais e Ciência Política – UNIFESP , Universidade Federal de São Paulo (Carga horária: 64h).
-
 ### 2019
 * Introdução à Programação e Web Design - [Coletivo Minas Programam](https://minasprogramam.com/) (Carga Horária: 64h).
-
 ### 2015
 * Alemão nível A1 e A2 - Centro Britânico, Unidade Vila Yara (Carga Horária: 64h)
 * Certificado Cambridge Advanced English (CAE) - Nível C1 - Certificado de fluência em Língua Inglesa
