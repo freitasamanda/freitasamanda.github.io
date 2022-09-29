@@ -11,21 +11,26 @@ redirect_from:
 
 Education
 ======
-* Mestrado em andamento em Ciência Política, Universidade de São Paulo, USP, Brasil (Conceito CAPES 7).
- <i>Título:</i> Polarização política e desinformação em períodos eleitorais: um mapeamento das eleições presidenciais de 2022 a partir do Twitter.
+* Mestrado em andamento em Ciência Política, Universidade de São Paulo, USP, Brasil (Conceito CAPES 7). MARÇO/2022
+
+<i>Título:</i> Polarização política e desinformação em períodos eleitorais: um mapeamento das eleições presidenciais de 2022 a partir do Twitter.
 
 <i>Orientador:</i> Prof. Dr. Glauco Peres da Silva.
 
+<i>Bolsista da: </i> CAPES/CNPq
+
 <i>Palavras-chave:</i> Eleições; Comunicação Política; Desinformação; Redes Sociais; Polarização Política.
 
-Grande área: Ciências Humanas.
+<i>Grande área: </i> Ciências Humanas.
 
-Grande Área: Ciências Humanas / Área: Ciência Política / Subárea: Comunicação Política
+<i>Área:</i>Ciência Política / Comunicação Política
 
+* Bacharela em Ciências Sociais, Universidade Federal de São Paulo, UNIFESP, Brasil. (FEV 2018 - FEV 2022)
 
+<i>Título: </i>Nova Política? O impacto eleitoral das novas tecnologias de informação e comunicação.
 
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<i>Orientador:</i> Prof. Dr. Rogério Schlegel.
+<i>Bolsista da: </i>Fundação de Amparo à Pesquisa do Estado de São Paulo, FAPESP, Brasil.
 
 Work experience
 ======
