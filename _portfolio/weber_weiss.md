@@ -4,30 +4,32 @@ excerpt: <br>Trabalho Final de Disciplina - Pesquisa 3: Métodos Qualitativos em
 collection: portfolio
 ---
 
+## Trabalho Final de Disciplina - Pesquisa 3: Métodos Qualitativos em Ciências Sociais (Graduação, UNIFESP, 2019)
 
-Introdução: o problema dos valores na obra de Max Weber
+### Introdução: o problema dos valores na obra de Max Weber
 
 O campo de trabalho das ciências sociais é a pesquisa científica do significado cultural geral da estrutura socioeconômica da vida social humana e de suas formas de organização histórica.                
 
 As “coisas” não trazem seu significado consigo, só o recebem quando se tornam relevantes e problemáticas para nós. O social só possui exatidão e só tem seu conteúdo delimitado a partir de algo relevante ao momento e contexto histórico e cultural. Entre todo meio e fim, há um custo, e uma decisão a tomar sobre o agir ou não agir. Para Weber, a ciência tem como uma de suas funções dar o conhecimento do significado de um determinado fim, elucidar a que universo simbólico pertencem certos meios e fins. A ciência elucida questões e traz à consciência os argumentos, mas não gera norte de conduta. Ela não gera imperativos, só esclarece o que existe.            
 
 Após a confrontação dos pontos de vista possíveis sobre um fenômeno, conceitos rigorosos e tipos ideais, a comprovação empírica não pode ser confundida com a teoria, e deve ser alcançada através de pesquisa e metodologia objetiva. O confronto entre esses dados empíricos e a teoria que advém da abstração é o que produz a ciência.
-Artigo de Raquel Weiss   
 
-“(…)o tema da “objetividade”, (…) foi desenvolvido propriamente no âmbito do debate com a herança romântica da escola histórica. Nesse enfrentamento, a posição weberiana sustentou-se sobre duas teses fundamentais, postuladas como condições necessárias para a objetividade. A primeira defende que as Ciências Sociais não devem lançar mão de recursos, quaisquer que sejam, que exijam uma tomada de posição valorativa. A segunda refere-se à ideia de que as Ciências Sociais devem verificar seus argumentos e hipóteses mediante a utilização da explicação causal” (WEISS, ano p.2)
+### Artigo de Raquel Weiss   
+
+“(…)o tema da “objetividade”, (…) foi desenvolvido propriamente no âmbito do debate com a herança romântica da escola histórica. Nesse enfrentamento, a posição weberiana sustentou-se sobre duas teses fundamentais, postuladas como condições necessárias para a objetividade. A primeira defende que as Ciências Sociais não devem lançar mão de recursos, quaisquer que sejam, que exijam uma tomada de posição valorativa. A segunda refere-se à ideia de que as Ciências Sociais devem verificar seus argumentos e hipóteses mediante a utilização da explicação causal” (WEISS, 2014, p.2)
 
 O objetivo do artigo de Raquel Weiss é reunir as justificativas apresentadas ao longo da obra weberiana para a defesa do distanciamento do cientista em relação ao seu objeto de estudo, uma postura de suspensão (mesmo que não absoluta) dos juízos de valores ao analisar e compreender a realidade social. Para isso a autora fez uma leitura estrutural de todos os textos de Weber que contém o tema da neutralidade axiológica.
 
 Os textos analisados foram:                
 
-A “objetividade” do conhecimento nas Ciências Sociais e Políticas
-Estudos críticos sobre a lógica das ciências da cultura – em polêmica com Eduard Meyer
-O significado da neutralidade axiológica das ciências sociológicas e econômicas
-A ciência como vocação       
+* A “objetividade” do conhecimento nas Ciências Sociais e Políticas
+* Estudos críticos sobre a lógica das ciências da cultura – em polêmica com Eduard Meyer
+* O significado da neutralidade axiológica das ciências sociológicas e econômicas
+* A ciência como vocação       
 
 Weber estava no contexto de embate com os chamados “socialistas de cátedra” – acadêmicos que assumiam posicionamentos políticos, principalmente de esquerda, junto com afirmações de natureza teórica e proposição de instrumentos de pesquisa. Portanto o contexto de crescente militância política dentro da Academia é o que incomodava Weber. O texto “A “objetividade” nas Ciências Sociais e Políticas” vem como uma espécie de “manifesto” para elucidar que fazer pesquisa é diferente de fazer política, e que fazer pesquisa social não deve ter como objetivo emitir valores e normas de conduta. A crítica aos socialistas de cátedra não vêm como defesa de uma posição apolítica, impossível, mas como Weber vê que a defesa dos ideais políticos estava intoxicando a produção de conhecimento científica das ciências sociais.       
 
-“A constante mescla de explicação científica dos fatos com raciocínios valorativos ainda é uma das características mais difundidas e mais nocivas de trabalhos na nossa profissão. É contra essa mistura e não contra a defesa dos próprios ideais que se dirigem as exposições que se seguem. Carência de convicções e “objetividade” científica não têm nenhuma afinidade interna” (WEBER, A objetividade, P. 25)
+“A constante mescla de explicação científica dos fatos com raciocínios valorativos ainda é uma das características mais difundidas e mais nocivas de trabalhos na nossa profissão. É contra essa mistura e não contra a defesa dos próprios ideais que se dirigem as exposições que se seguem. Carência de convicções e “objetividade” científica não têm nenhuma afinidade interna” (WEBER, A objetividade..., P. 25)
 
 No texto principal sobre o tema, “o significado da ‘neutralidade axiológica’ das ciências sociológicas e econômicas”, Weber advoga contra fazer da sala de aula e da pesquisa um palanque político. Historicamente aprendemos, tanto como sociedade quanto como Academia, que não existe uma única conduta lógica do que é justo, então o professor universitário, e pesquisador, deve explicitar para os alunos e leitores quais os seus argumentos puramente lógicos, empíricos e quais têm um caráter valorativo, de suas convicções pessoais – o que está por trás de cada um desses tipos de argumentos importa muito. O professor, ao não fazer isso pode cometer abuso de autoridade com os alunos.               
 
@@ -37,18 +39,19 @@ Concluindo, o que pode a ciência é elucidar as consequências de assumir certo
 
 As justificativas diferem em seis tipos ao longo da obra weberiana, de acordo com Weiss. Podem ser sintetizados da seguinte forma: 
 
-Ontológicas – a realidade é composta por uma variedade infinita de valores que não são conciliáveis, isto é, não são as partes de um todo, desaguando em um único valor último.
+<b>Ontológicas</b> – a realidade é composta por uma variedade infinita de valores que não são conciliáveis, isto é, não são as partes de um todo, desaguando em um único valor último.
 
-Metodológicas – Os juízos de valor prejudicam o procedimento de explicação causal das relações de valor.
+<b>Metodológicas</b> – Os juízos de valor prejudicam o procedimento de explicação causal das relações de valor.
 
-Lógicas – erros lógicos de coerência argumentativa nos textos que defendem os valores na ciência.
+<b>Lógicas</b> – erros lógicos de coerência argumentativa nos textos que defendem os valores na ciência.
 
-Históricas – como a própria ciência foi mudando em suas concepções de procedimento e de seus limites.
+<b>Históricas</b> – como a própria ciência foi mudando em suas concepções de procedimento e de seus limites.
 
-Éticas – não assumir neutralidade pode fazer o pesquisador realizar abuso de autoridade.
+<b>Éticas</b> – não assumir neutralidade pode fazer o pesquisador realizar abuso de autoridade.
 
-Epistemológicas – os diferentes tipos de saber (técnico, filosófico, teológico), e o que é específico do saber científico, suas possibilidades em relação aos outros tipos de saberes e também os seus limites.
-Os argumentos centrais sobre a pesquisa-ação
+<b>Epistemológicas</b> – os diferentes tipos de saber (técnico, filosófico, teológico), e o que é específico do saber científico, suas possibilidades em relação aos outros tipos de saberes e também os seus limites.
+
+### Os argumentos centrais sobre a pesquisa-ação
 
 Os principais argumentos que procuro defender da adoção da neutralidade axiológica e da diferença irreconciliável entre fazer pesquisa e fazer militância/ação serão apresentados neste texto da seguinte maneira:
 
