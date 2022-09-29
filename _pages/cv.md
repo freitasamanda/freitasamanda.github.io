@@ -89,7 +89,7 @@ Entrevistas na Mídia
 Trabalhos como Social Media e Divulgação de Ciência
 ======
 * <b>[Ubuntu Diário - tecnologia e software livre](https://www.instagram.com/ubuntudiario/)</b> - hostess do podcast, criadora de conteúdo, colunista.
-* <b>[Clio Operária - teoria e ação política marxista]</b>(https://www.instagram.com/cliooperaria/) - hostess do podcast, colunista
+* <b>[Clio Operária - teoria e ação política marxista](https://www.instagram.com/cliooperaria/)</b> - hostess do podcast, colunista
 * <b>[Lavra Palavra – portal de artigos teóricos marxistas](https://lavrapalavra.com/?s=Amanda+Freitas)</b>
 
 Habilidades
