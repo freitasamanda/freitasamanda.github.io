@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Formação
 ======
-* Mestrado em andamento em Ciência Política, Universidade de São Paulo, USP, Brasil (Conceito CAPES 7). MARÇO/2022
+* <b>Mestrado em andamento em Ciência Política</b>, Universidade de São Paulo, USP, Brasil (Conceito CAPES 7). MARÇO/2022
   * <i>Título:</i> Polarização política e desinformação em períodos eleitorais: um mapeamento das eleições presidenciais de 2022 a partir do Twitter.
   * <i>Orientador:</i> Prof. Dr. Glauco Peres da Silva.
   * <i>Bolsista da: </i> CAPES/CNPq 
@@ -19,12 +19,17 @@ Education
   * <i>Grande área: </i> Ciências Humanas.
   * <i>Área:</i>Ciência Política / Comunicação Política
 
-* Bacharela em Ciências Sociais, Universidade Federal de São Paulo, UNIFESP, Brasil. (FEV 2018 - FEV 2022)
+* <b>Bacharela em Ciências Sociais</b>, Universidade Federal de São Paulo, UNIFESP, Brasil. (FEV 2018 - FEV 2022)
   * <i>Título: </i>Nova Política? O impacto eleitoral das novas tecnologias de informação e comunicação.
   * <i>Orientador:</i> Prof. Dr. Rogério Schlegel.
   * <i>Bolsista da: </i>Fundação de Amparo à Pesquisa do Estado de São Paulo, FAPESP, Brasil.
 
-Work experience
+* <b>Tecnólogo Produção e Gestão de Mídias Sociais</b>, Universidade Anhembi Morumbi (JAN 2017 - AGO 2017 - Curso trancado) 
+  *Gestão de mídias sociais, criação de conteúdo para web, uso de ferramentas de edição de imagem e vídeo, automatização de calendário de conteúdo com Buffer e técnicas de marketing digital com SEO, Google AdWords, Google AdSense e Facebook Ads.
+
+* <b>Licenciatura em Letras - Inglês</b>, Universidade Nove de Julho (JAN 2016 - AGO 2016 -Curso trancado)
+
+Experiência
 ======
 * Summer 2015: Research Assistant
   * Github University
