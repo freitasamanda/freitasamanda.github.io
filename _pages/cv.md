@@ -72,7 +72,7 @@ Habilidades
 
 * Faxina de Dados: Introdução e melhores práticas em Data Cleaning  - [Curso-R](https://curso-r.com/) (Carga horária: 12h)
 
-## 2021
+### 2021
 
 * Análise de Redes Sociais com Gephi - [IBPAD](https://ibpad.com.br/analise-de-redes-para-midias-sociais/), Instituto Brasileiro de Pesquisa e Análise de Dados (Carga horária: 36h).
 
@@ -80,17 +80,17 @@ Habilidades
 
 * Análise de Redes com SocNetV e Gephi - [CEBRAP.LAB](https://cebrap.org.br/cebrap-lab/), Centro Brasileiro de Análise e Planejamento (Carga horária – 15h).
 
-## 2020
+### 2020
 
 * Formação de Ciência de Dados em R e Python – Udemy (Carga Horária: 50h).
 
 * Estatística para Ciências Sociais e Ciência Política – UNIFESP , Universidade Federal de São Paulo (Carga horária: 64h).
 
-## 2019
+### 2019
 
 * Introdução à Programação e Web Design - [Coletivo Minas Programam](https://minasprogramam.com/) (Carga Horária: 64h).
 
-## 2015
+### 2015
 
 * Alemão nível A1 e A2 - Centro Britânico, Unidade Vila Yara (Carga Horária: 64h)
 
