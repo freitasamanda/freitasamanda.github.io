@@ -31,16 +31,19 @@ Formação
 
 Experiência
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* <i>AGOSTO de 2022 - em andamento</i>: <b>CAPES/CNPq - Bolsista de Mestrado</b>, Universidade de São Paulo
+  * Desenvolve pesquisa de monitoramento e análise de dados do Twitter na linguagem de programação R e utilizando o software Gephi, com foco nos fenômenos de desinformação e polarização política.
+
+* <i>ABRIL de 2022 – SETEMBRO de 2022</i>: <b>[SMUS Conference Brazil 2022](https://gcsmus.org/conferences/brazil/team/amanda_freitas/) – Bolsista</b>, Universidade de São Paulo
+  * Monitora-Bolsista de Pós-Graduação para a Equipe de Organização da SMUS Conference Brazil 2022.
+
+* <i>JULHO DE 2019 – NOVEMBRO DE 2021</i>: <b>CNPq e FAPESP – Bolsista Iniciação Científica</b>, Universidade Federal de São Paulo
+  * Desenvolveu pesquisa sobre o impacto eleitoral das novas tecnologias de informação e comunicação nas eleições presidenciais brasileiras de 2018 e municipais de 2020. Conduziu entrevistas e grupos focais online com eleitores de todas regiões do Brasil e realizou transcrição e análise de conteúdo qualitativa e quantitativa de entrevistas e grupos focais com R  e Nvivo.
+
+* <i>JANEIRO DE 2016 - JULHO DE 2018</i> : Professora particular de Inglês e Português – Autônoma, São Paulo
+  * Preparatório para vestibular e reforço de alunos de ensino médio, aulas de redação, gramática inglesa e portuguesa  e literatura luso-brasileira.
+
 Skills
 ======
 * Skill 1
