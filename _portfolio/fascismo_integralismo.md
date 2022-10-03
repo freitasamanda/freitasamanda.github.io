@@ -184,20 +184,26 @@ social, difundindo uma leitura mística do passado e de seu futuro.
 
 ### REFERÊNCIAS
 AMADO, Thiago da Costa. A Nação Despertou? :O Integralismo e sua Cenografia
-(1932-1937), Monografia, Bacharelado em História, UNICAMP, .2012
+(1932-1937), Monografia, Bacharelado em História, UNICAMP, 2012.
+
 ARENDT, Hannah. Origens do totalitarismo: antissemitismo, imperialismo, totalitarismo.
-Editora Companhia das Letras, 2013
+Editora Companhia das Letras, 2013.
+
 BARBOSA, Jefferson Rodrigues. A ascensão da ação integralista brasileira (1932-1937).
 Revista de Iniciação Científica da FFC, v. 6, n. 1/2, 2006.
+
 COHEN, Peter. Arquitetura da destruição. Título original: Architektur des Untergangs,
 1992.
+
 ECO, Umberto. Fascismo Eterno, in: Cinco Escritos Morais, Tradução: Eliana Aguiar,
-Editora Record, Rio de Janeiro, 2002. Disponível em
-:https://operamundi.uol.com.br/samuel/43281/umberto-eco-14-licoes-para-identificar-o-neofascismo-e-o-fascismo-eternol. Acesso em:27 de nov. 2019
-MARINETTI Filippo Tommaso. Manifesto Futurista, 1909
+Editora Record, Rio de Janeiro, 2002. Disponível em:https://operamundi.uol.com.br/samuel/43281/umberto-eco-14-licoes-para-identificar-o-neofascismo-e-o-fascismo-eternol. Acesso em:27 de nov. 2019
+MARINETTI Filippo Tommaso. Manifesto Futurista, 1909.
+
 SALGADO, Plínio. Manifesto de outubro de 1932. 1932.
+
 SILVA, Francisco Carlos Teixeira da. Os fascismos. O século XX. O tempo das crises:
-revoluções, fascismos e guerras, v. 4,2000.
+revoluções, fascismos e guerras, v. 4, 2000.
+
 SILVA, Rogério Souza. A política como espetáculo: a reinvenção da história brasileira e a
 consolidação dos discursos e das imagens integralistas na revista Anauê!. Revista Brasileira
-de História, v. 25, n. 50, 2005
+de História, v. 25, n. 50, 2005.

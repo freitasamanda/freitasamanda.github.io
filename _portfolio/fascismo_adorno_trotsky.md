@@ -53,5 +53,7 @@ Se o fascismo é o delírio na política, é crucial que, num contexto de crise 
 ### Referências
 
 ADORNO, Theodor W. Estudos sobre a personalidade autoritária. São Paulo, Editora Unesp, 2019.
+
 ADORNO, Theodor W. Aspectos do novo extremismo de direita. São Paulo, Editora Unesp, 2020. 
+
 TROTSKY, Leon. Como esmagar o fascismo. São Paulo, Editora Autonomia Literária, 2018. 
