@@ -8,25 +8,26 @@ Escrito em co-autoria com: Paulo Sérgio de Oliveira Pantolfi; Ângela Pereira d
 
 ### Introdução
 “Cidadãos, amigos. Depois de tantos sacrifícios dolorosos... aqui estamos. Glória aos que
-caíram pela liberdade...”1
+caíram pela liberdade...”
 Essa curta é apresentada por Umberto Eco como o discurso de um dos líderes da resistência
 italiana em 1947 após a libertação de sua cidade, a exaltação da liberdade como objetivo dos
 opositores do fascismo revela o antagonismo entre os ideais fascistas e a possibilidade de ser
-livre2.
+livre.
+
 Francisco Carlos Teixeira da Silva(2000) e Umberto Eco(2002) compactuam ao apresentar
 uma pluralidade de regimes com características fascistas, sobre um modelo busca união entre
 nação, raça e a destruição do que é estrangeiro¹. Embora o fascismo seja tradicionalmente
 associado aos governos de Hitler e Mussolini seu sistema ideológico foi adaptado a diversas
 nações, sendo proliferado com mudanças em suas estrutura de acordo com os elementos
-regionais3.
+regionais.
+
 Segundo Hannah Arendt, uma das principais forças dos movimentos fascistas é o sua
 utilização de rituais e símbolos, como força para propagar e afirmar a sua presença totalitária
-em todos os espaços sociais4 (427)
-No Brasil o movimento que compartilhava de elementos fascistas foi a ação integralista
-brasileira5 existiu oficialmente como partido entre 1935 e 1937, exaltando o nacionalismo e o
+em todos os espaços sociais. No Brasil o movimento que compartilhava de elementos fascistas foi a ação integralista brasileira existiu oficialmente como partido entre 1935 e 1937, exaltando o nacionalismo e o
 surgimento de um novo homem, o integralista. Os integralista dividiam juntamente com os
 fascistas uma valorização do visual, seja nos cartazes, uniformes ou marchas em vias
-públicas, elementos que transformam o cotidiano em ritual6.
+públicas, elementos que transformam o cotidiano em ritual.
+
 A presença e valorização dos símbolos é um elemento presente em diversos regimes
 políticos, mas o projeto fascista de poder os utiliza como uma junção entre o sagrado e
 profano, os símbolos e rituais do partido/nação buscam abolir os limites entre esfera pública e
@@ -43,6 +44,7 @@ ideológica de fazer frente ao regime da URSS, resultou num esquecimento volunt�
 não culpabilização pelos horrores da guerra, um projeto de recuperação da política capitalista
 na Europa dilacerada. Vários setores alemães tiveram sua desnazificação paralisada ou
 incompleta, o que nos permite traçar uma ponte entre o fascismo histórico e o neofascismo.
+
 O sistema judiciário no país definia sentenças de acordo com a participação conivente com a
 violência antissemita no holocausto, e as penas eram abrandadas caso comprovado o status de
 “seguidor” do hitlerismo, ou seja, colaborador não consciente de que o holocausto estava
@@ -101,7 +103,7 @@ convencimento do outro como inimigo, a desconfiança perante o outro propõe a v
 como resposta. A repressão do ego e da libido, a negação da possibilidade de existência do
 afeto, o apelo ao ódio, resultam numa catarse coletiva da libido dirigida ao líder e à violência
 contra o diferente. A promessa da segurança tradicional, em resposta ao medo coletivo, se
-encontra com a modernidade e com o automatismo perfeito
+encontra com a modernidade e com o automatismo perfeito.
 
 ### Uma estética fascista
 Os diversos regimes fascistas encontram fontes distintas para a justificativa histórica de suas
@@ -126,7 +128,8 @@ valores da Sociedade de Estudos Políticos (SEP), grupo contrário aos projetos 
 socialistas. Inicialmente, não se apresentava como um grupo de atuação política, ou seja, um
 partido, seus integrantes o defendiam como um movimento cultural12, suas ações e objetivos
 visavam uma modificação das idéias do país, como a elevação moral e espiritual do
-homem13.
+ser humano.
+
 Como diversos outros movimentos do início do século XX, os integralistas apresentaram suas
 ideias e objetivos por meio de um manifesto, conhecido como manifesto de outubro de 1932,
 entre as principais ideias expostas têm destaque; o lema integralista “ Deus, pátria e família”14
@@ -134,6 +137,7 @@ como os elementos que atribuem valor a vida do sujeito, assim como seu trabalho 
 por eles. Todo avanço nos diversos campos do saber deve ter como objetivo o bem estar
 nacional e a elevação moral, tendo como elementos superiores e transcendentes ao sujeito
 Deus e a nação, uma crítica às divisões sociais.
+
 Buscando um cooperativismo em prol da nação, assim como uma organização política
 baseada em classes profissionais no lugar do voto universal, elementos com autoridade e
 hierarquia são atribuídos como necessários, cabendo ao povo a confiança de que o governo
@@ -141,7 +145,8 @@ vai manter a ordem e tomar as melhores decisões. O nacionalismo proposto no man
 buscam afastar todos os costumes e práticas estrangeiras, busca uma valorização da cultura
 nacional, alegando que os regimes políticos impostos no país são incapazes de governar a
 nação, repudiam a burguesia e os comunistas, propondo a criança de uma cultura
-genuinamente brasileira15.
+genuinamente brasileira.
+
 O projeto liderado por Plínio Salgado propunha um resgate de elementos espirituais,
 juntamente com o retorno de uma coletividade nacional, esses elementos geram uma
 aproximação com os ideais fascistas europeus, entretanto não é por esse campo que vamos
