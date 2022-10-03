@@ -1,5 +1,5 @@
 ---
-title: "Fascismo histórico e Integralismo”"
+title: "Fascismo histórico e Integralismo"
 excerpt: "Trabalho de Disciplina de Graduação - História Contemporânea 2 (UNIFESP, 2019)"
 collection: portfolio
 ---

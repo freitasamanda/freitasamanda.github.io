@@ -1,10 +1,10 @@
 ---
 title: "Sobre a gênese do pensamento lógico em “Formas Elementares da Vida Religiosa” (Durkheim)"
-excerpt: "Trabalho Final de Disciplina de Graduação - Sociologia 1 (UNIFESP, 2018)"
+excerpt: "Trabalho de Disciplina de Graduação - Sociologia 1 (UNIFESP, 2018)"
 collection: portfolio
 ---
 
-## Trabalho Final de Disciplina de Graduação - Sociologia 1 (UNIFESP, 2018)
+## Trabalho de Disciplina de Graduação - Sociologia 1 (UNIFESP, 2018)
 
 Em As Formas Elementares da Vida Religiosa, Durkheim utiliza relatos de viajantes em sociedades “primitivas” na Austrália para, a partir do estudo do totemismo, apreender o que há de geral e essencial no pensamento religioso. O objetivo não é, como na etnografia, reconstruir as particularidades dessas religiões, e, sim, a partir de uma sociedade mais simples, com individualidades menos desenvolvidas, e maior conformismo social, generalizar o que é a essência religiosa, quais as necessidades, funções e dependências causais de fatores sociais, quais suas significações e suas contribuições na construção das cosmologias e categorias de explicação e inteligibilidade do mundo.
 
