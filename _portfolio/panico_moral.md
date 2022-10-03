@@ -1,6 +1,6 @@
 ---
 title: "Pânico Moral, Mídia e Representações Sociais"
-excerpt: Trabalho Final de Disciplina - Mídia na pesquisa sociológica (Graduação, UNIFESP, 2019)"
+excerpt: "Trabalho Final de Disciplina - Mídia na pesquisa sociológica (Graduação, UNIFESP, 2019)"
 collection: portfolio
 ---
 

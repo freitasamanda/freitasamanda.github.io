@@ -1,6 +1,6 @@
 ---
 title: "Os objetivos da pesquisa antropológica em Franz Boas"
-excerpt: Trabalho de Disciplina de Graduação - Antropologia 1 (UNIFESP, 2018)"
+excerpt: "Trabalho de Disciplina de Graduação - Antropologia 1 (UNIFESP, 2018)"
 collection: portfolio
 ---
 
