@@ -71,7 +71,7 @@ O caso relaciona-se com o conceito de controle social em Foucault. Na sociedade
 contemporânea, o poder não se dá mais pela proibição disciplinatória de certos comportamentos,
 mas pelo seu controle.
 
-" Conquistas como a (…) despatologização de certos comportamentos assim como sua descriminalização são resultado desse processo (…). Ao invés de tratar ou prender, a sociedade encontra meios de controlar aqueles cujos estilos de vida supostamente ameaçam a normalidade social. (Miskolci, P.113)
+"Conquistas como a (…) despatologização de certos comportamentos assim como sua descriminalização são resultado desse processo (…). Ao invés de tratar ou prender, a sociedade encontra meios de controlar aqueles cujos estilos de vida supostamente ameaçam a normalidade social. (Miskolci, P.113)
 
 Com a despatologização da homossexualidade, os grupos conservadores recorreram a formas
 de regulamentação legal para reivindicarem o controle do movimento LGBT e impedirem o avanço
@@ -131,10 +131,7 @@ esforços cada vez mais amplos. O fortalecimento do aparato de controle social, 
 novas leis e/ou mais intensa hostilidade pública, envolve um sentimento coletivo de que “algo
 deveria ser feito”.
 
-    Os movimentos nacionalistas, o retorno ao comunitário e a retórica de valorização do
-    casamento e da família. A resistência à transformação social origina cruzas morais que
-    tentam reavivar valores antigo e formas ultrapassadas de instituições em mutação.
-    (Miskolci, P.120)
+"Os movimentos nacionalistas, o retorno ao comunitário e a retórica de valorização do casamento e da família. A resistência à transformação social origina cruzas morais que tentam reavivar valores antigo e formas ultrapassadas de instituições em mutação". (Miskolci, p.120)
 
 Macedo e Sinhoretto apontam como a mídia tem papel crucial na cristalização das premissas de
 “moral e bons costumes”. A partir de veiculação repetida e reiterada, a mídia insere este discurso
@@ -162,30 +159,20 @@ dito e o que não deve, o que é importante ser discutido e o que deve ser desco
 (1987) argumenta que a televisão completa o “sequestro da existência privada”, inserindo na esfera
 íntima os símbolos e mensagens que reiteram o ​ status quo ​ e minam a capacidade de reflexão crítica.
 
-    Por isso, se o projeto filosófico do esclarecimento era desencantar o mundo e libertar os
-    homens, a imprensa e outras tecnologias de informação teriam servido ao projeto oposto –
-    o de reencantar o mundo, mudando até mesmo a forma como se conduzem as guerras e
-    disputas políticas.
-    (Adorno in. Macedo e Sinhoretto, p.332)
+"Por isso, se o projeto filosófico do esclarecimento era desencantar o mundo e libertar os homens, a imprensa e outras tecnologias de informação teriam servido ao projeto oposto – o de reencantar o mundo, mudando até mesmo a forma como se conduzem as guerras e disputas políticas". (Adorno in. Macedo e Sinhoretto, p.332)
 
 No artigo de Macedo e Sinhoretto, a mídia é o ator chave da construção das representações
 sociais. Contemporaneamente, a produção e recriação dos fatos tem maior proeminência no campo
 midiático devido às novas TICs, cada vez mais acessíveis. O imaginário social é modelado pelos
 discursos que transitam nas mídias tradicionais e nas mídias digitais, pois são o principal canal decomunicação e acesso à informação, quase instantaneamente, do que acontece no mundo. Os setores sociais que controlam esses canais, tanto na tradicional mídia de massa quanto nas novas mídias digitais, tem poder cada vez maior de pautar o debate público, e, consequentemente, as ações dos cidadãos nas democracias contemporâneas.
 
-    As representações sociais são um conjunto de noções, teorias e práticas construídas pelos
-    indivíduos para compreenderem o mundo em que estão inseridos, a fim de responder e
-    explicar os diferentes estímulos e fenôMenos que se apresentam diariamente. No nível
-    coletivo, as representações são esquemas socialmente compartilhados e capazes de
-    orientar a prática social.
-    (Macedo e Sinhoretto, p.33)
+"As representações sociais são um conjunto de noções, teorias e práticas construídas pelos indivíduos para compreenderem o mundo em que estão inseridos, a fim de responder e explicar os diferentes estímulos e fenômenos que se apresentam diariamente. No nível coletivo, as representações são esquemas socialmente compartilhados e capazes de orientar a prática social." (Macedo e Sinhoretto, p.33)
 
 
 Cabe ao pesquisador desvelar quais as representações sociais presentes nos discursos midiáticos
 e de que forma estas são reconstruídas e remodeladas, além de como podem afetar as democracias.
 
-    As representações são substrato do imaginário social e matéria-prima do fazer sociológico
-    (PORTO, in. Macedo e Sinhoretto, p.334)”
+"As representações são substrato do imaginário social e matéria-prima do fazer sociológico" (PORTO, in. Macedo e Sinhoretto, p.334)”
 
 ### Outras discussões
 

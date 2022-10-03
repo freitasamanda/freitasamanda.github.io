@@ -1,10 +1,10 @@
 ---
 title: "O debate entre pesquisa-ação e neutralidade axiológica (Resenha de Max Weber e Raquel Weiss)"
-excerpt: "Trabalho Final de Disciplina - Pesquisa 3: Métodos Qualitativos em Ciências Sociais (Graduação, UNIFESP, 2019)"
+excerpt: "Trabalho de Disciplina de Graduação - Pesquisa 3: Métodos Qualitativos em Ciências Sociais (UNIFESP, 2019)"
 collection: portfolio
 ---
 
-## Trabalho Final de Disciplina - Pesquisa 3: Métodos Qualitativos em Ciências Sociais (Graduação, UNIFESP, 2019)
+## Trabalho de Disciplina de Graduação - Pesquisa 3: Métodos Qualitativos em Ciências Sociais (UNIFESP, 2019)
 
 ### Introdução: o problema dos valores na obra de Max Weber
 
