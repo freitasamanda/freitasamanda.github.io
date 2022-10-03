@@ -73,14 +73,6 @@ Prêmios
   * SPCine e ESPM
   * Projeto You'll Never Walk Alone, 2019
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
 Apresentações em Congressos e Seminários
 ======
 * <b>2022 - Apresentação de Pôster</b>
@@ -89,7 +81,7 @@ Apresentações em Congressos e Seminários
   * 2nd International and Interdisciplinary Conference on Spatial Methods for Urban Sustainability (SMUS Conference)
 * <b>2021 - Apresentação de Paper </b>
   * Os impactos eleitorais das redes sociais: entraves para o letramento digital
-  * [6º Workshop Comportamento Político e Opinião Pública]´(https://sites.google.com/view/workshopcomportamento)
+  * [6º Workshop Comportamento Político e Opinião Pública](https://sites.google.com/view/workshopcomportamento)
   * Associação Brasileira de Ciência Política (ABCP)
 * <b> 2021 - Apresentação de Paper </b>
   * Direitos Reprodutivos e Sexuais das Mulheres: Análise da Constituição Brasileira
@@ -126,6 +118,7 @@ Trabalhos como Social Media e Divulgação de Ciência
 
 Habilidades
 ======
+
 ### 2022
 * [Below the Radar: Investigating Far-Right Groups on Telegram with ElasticSearch + Kibana](https://gcsmus.org/conferences/brazil/courses/below-the-radar-investigating-far-right-groups-on-telegram-with-elasticsearch-kibana) - SMUS Conference Brazil (Carga Horária: 6h).
 * R e Análise de Dados para Ciência Política – USP, Universidade de São Paulo (Carga horária: 64h).
@@ -142,6 +135,12 @@ Habilidades
 ### 2015
 * Alemão nível A1 e A2 - Centro Britânico, Unidade Vila Yara (Carga Horária: 64h)
 * Certificado Cambridge Advanced English (CAE) - Nível C1 - Certificado de fluência em Língua Inglesa
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 
   
