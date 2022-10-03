@@ -71,11 +71,7 @@ O caso relaciona-se com o conceito de controle social em Foucault. Na sociedade
 contemporânea, o poder não se dá mais pela proibição disciplinatória de certos comportamentos,
 mas pelo seu controle.
 
-    Conquistas como a (…) despatologização de certos comportamentos assim como sua
-    descriminalização são resultado desse processo (…). Ao invés de tratar ou prender, a
-    sociedade encontra meios de controlar aqueles cujos estilos de vida supostamente
-    ameaçam a normalidade social.
-    (Miskolci, P.113)
+" Conquistas como a (…) despatologização de certos comportamentos assim como sua descriminalização são resultado desse processo (…). Ao invés de tratar ou prender, a sociedade encontra meios de controlar aqueles cujos estilos de vida supostamente ameaçam a normalidade social. (Miskolci, P.113)
 
 Com a despatologização da homossexualidade, os grupos conservadores recorreram a formas
 de regulamentação legal para reivindicarem o controle do movimento LGBT e impedirem o avanço
@@ -102,7 +98,117 @@ desviante e voltá-lo aos acusadores, que envolvem agentes de controle social, a
 reação é o que deve ser analisada centralmente pelo pesquisador. O pânico pode ser
 deliberadamente construído por setores sociais, que podem utilizar-se da mídia.
 
+Cohen define o fenômeno de pânico moral de acordo com estágios: primeiramente um grupo é
+definido como desviante; a estilização, estereotipagem e sensacionalismo são construídos em torno
+deste grupo pela mídia de massa; são instituídas as barricadas morais que suscitam o medo coletivo
+latente acerca do risco do comportamento deste grupo; os especialistas vão a pública dar seus
+diagnósticos; por fim, são propostas formas de ação e solução, que na verdade são utilizadas com
+um propósito, político, ideológico, econômico entre outros. Ben-Yehuda e Goode não definem o
+fenômeno em termos de estágios, mas em termos de características determinantes: uma inquietação
+ou preocupação a respeito do comportamento de um grupo; a hostilidade em relação à categoria
+alvo; o consenso por parte de um segmento sobre a seriedade do comportamento deste grupo
+acusado; a desproporção se instaura, e deve ser constatada pelo pesquisador empiricamente; a
+volatilidade do pânico, mesmo utilizando-se de tema recorrente, é percebida na rapidez com que se
+instaura e com que se dissolve.
 
+A superfície dos pânicos morais apontam para uma questão, porém Miskolci e Landini
+demonstram que o que estrutura o fenômeno do pânico moral é a dinâmica da substituição. O
+conteúdo efetivo que faz surgir este fenômeno deve ser desvelado pelo pesquisador.
+
+Miskolci aponta que os pânicos morais são processos sociais marcados pelo temor sobre a
+mudança social. O grau de dissenso que é tolerado socialmente tem seus limites demonstrados
+durante os pânicos morais. O foco no “medo” enfatiza como as reações não surgem por meio de
+julgamentos racionais e ponderados a respeito das reais consequências do comportamento de tal
+grupo. O sentimento de perigo têm origem em perigos reais, porém que são distorcidos de acordo
+com agendas morais. O pânico envolve estas agendas morais porque o que se teme nesses
+fenômenos é à ameaça à ordem social idealizada hegemonicamente.
+
+A defesa desta ordem social do passado, que estaria sendo perigosamente transformada pelo
+grupo desviante, é parte central de um discurso conservador e punitivista. Miskolci define a
+tendência contemporânea da sociedade do risco como uma percepção hegemônica de que a
+estabilidade social está sob ameaça constante de grupos desviantes, que devem ser controlados sob
+esforços cada vez mais amplos. O fortalecimento do aparato de controle social, que pode incluir
+novas leis e/ou mais intensa hostilidade pública, envolve um sentimento coletivo de que “algo
+deveria ser feito”.
+
+    Os movimentos nacionalistas, o retorno ao comunitário e a retórica de valorização do
+    casamento e da família. A resistência à transformação social origina cruzas morais que
+    tentam reavivar valores antigo e formas ultrapassadas de instituições em mutação.
+    (Miskolci, P.120)
+
+Macedo e Sinhoretto apontam como a mídia tem papel crucial na cristalização das premissas de
+“moral e bons costumes”. A partir de veiculação repetida e reiterada, a mídia insere este discurso
+nas notícias descritas como apresentadas num “deserto de contextualização”, o que reforça os
+sentimentos de desproporção do problema efetivo.
+
+### O papel da mídia
+
+A mídia digital, no texto de Landini, é apontada como central para a definição dos desviantes.
+O discurso moralizante é projetado sobre as obras de forma a legitimar a denúncia, utilizando-se da
+figura do pedófilo. A discussão sobre esta ameaça, neste caso fabricada, foi feita pelo uso da mídia
+no processo de inversão dos sentidos que estavam presentes naquelas obras artísticas. Miskolci
+também aponta como a mídia é crucial nos primeiros estágios de definição dos desviantes. A forte
+reação coletiva é trazida pelo processo de sensibilização social a cerca de um tipo de comportamento. O conceito de pânico moral mostra como esta sensibilização age de forma a gerar
+reações punitivistas e moralizantes da opinião pública, principalmente com a atuação da mídia de
+massa.
+
+Macedo e Sinhoretto discorrem em sua pesquisa sobre o papel da mídia nas relações de poder.
+A mídia atua na política simbólica ao criar, como Miskolci chama, uma “espiral de significação”.
+Bourdieu, de acordo com Macedo e Sinhoretto, identifica o jornalismo como amplamente
+pressionado pelos conglomerados econômicos, pelas exigências da audiência, pela submissão da
+produção cultural à lógica mercantil. A mídia é utilizada largamente como forma de opressão
+simbólica, ao desenvolver métricas distintas de ​ agenda setting , ​ ou seja, selecionar o que deve ser
+dito e o que não deve, o que é importante ser discutido e o que deve ser desconsiderado. Adorno
+(1987) argumenta que a televisão completa o “sequestro da existência privada”, inserindo na esfera
+íntima os símbolos e mensagens que reiteram o ​ status quo ​ e minam a capacidade de reflexão crítica.
+
+    Por isso, se o projeto filosófico do esclarecimento era desencantar o mundo e libertar os
+    homens, a imprensa e outras tecnologias de informação teriam servido ao projeto oposto –
+    o de reencantar o mundo, mudando até mesmo a forma como se conduzem as guerras e
+    disputas políticas.
+    (Adorno in. Macedo e Sinhoretto, p.332)
+
+No artigo de Macedo e Sinhoretto, a mídia é o ator chave da construção das representações
+sociais. Contemporaneamente, a produção e recriação dos fatos tem maior proeminência no campo
+midiático devido às novas TICs, cada vez mais acessíveis. O imaginário social é modelado pelos
+discursos que transitam nas mídias tradicionais e nas mídias digitais, pois são o principal canal decomunicação e acesso à informação, quase instantaneamente, do que acontece no mundo. Os setores sociais que controlam esses canais, tanto na tradicional mídia de massa quanto nas novas mídias digitais, tem poder cada vez maior de pautar o debate público, e, consequentemente, as ações dos cidadãos nas democracias contemporâneas.
+
+    As representações sociais são um conjunto de noções, teorias e práticas construídas pelos
+    indivíduos para compreenderem o mundo em que estão inseridos, a fim de responder e
+    explicar os diferentes estímulos e fenôMenos que se apresentam diariamente. No nível
+    coletivo, as representações são esquemas socialmente compartilhados e capazes de
+    orientar a prática social.
+    (Macedo e Sinhoretto, p.33)
+
+
+Cabe ao pesquisador desvelar quais as representações sociais presentes nos discursos midiáticos
+e de que forma estas são reconstruídas e remodeladas, além de como podem afetar as democracias.
+
+    As representações são substrato do imaginário social e matéria-prima do fazer sociológico
+    (PORTO, in. Macedo e Sinhoretto, p.334)”
+
+### Outras discussões
+
+No artigo sobre a onda anti-queer museu, poderiam ter sido usados materiais das mídias
+tradicionais, como Veja e Estadão, e analisar de que forma essas mídias reverberaram (ou não) o
+discurso moralizante projetado sobre as exposições. Também poderiam ter sido usados para analisar de que forma a mídia tradicional tratou esta onda, qual o foco que deu em sua programação, que especialistas convidou a falar sobre o tema e qual o teor dos comentários tecidos. Estas análises contribuíram para testar a hipótese de que este tipo de pânico moral não teve atenção da mídia por ser um golpe político e claramente exagerado arquitetado por um grupo minoritário. Ou testar também a hipótese de que este mesmo discurso já aparece na mídia tradicional de outras formas.
+
+Poderia ter sido analisado a forma como as pessoas receberam este discurso durante a onda anti
+queer museu, analisando comentários, vídeos, e compartilhamentos feitos dos materiais vindos da
+página do MBL. Também seria interessante relacionar os discursos sobre a Lei Rouanet e o Escolasem Partido meses depois desta onda queer museu, quais as semelhanças e de que forma estes discursos, mesmo que tenham sido voláteis, permaneceram no imaginário popular e contribuíram ou não com as eleições de 2018.
+
+A relação entre HIV e casamento gay se perpetua na mídia hoje em dia? E as imagens sobre
+homossexualidade como promiscuidade, também continuam? De que forma se alteraram? Seria
+interessante utilizar material jornalístico das mídias tradicionais nos anos 80 e comparar com os
+materiais de hoje sobre casamento gay. Que estereótipos permaneceram e quais se esvaíram? E por
+que?
+
+Como a imagem do casamento gay e adoção foi mudando dos anos 80 para cá? Hoje em dia
+vemos reportagens televisivas que mostram vários casais homossexuais adotando crianças, de forma positiva. Era assim que adoção era mostrada nos anos 80? Se não era, quais processos sociais
+contribuíram e resultaram nesta mudança de discurso na mídia tradicional? A partir de que
+momento e a partir de que acontecimentos sociais a adoção de crianças por casais homossexuais
+passou a ser retratada como algo positivo? Isto constitui-se uma continuação da despolitização do
+movimento LGBT e queer, como apontada por Miskolci?
 
 ### Referências
 
