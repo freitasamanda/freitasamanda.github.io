@@ -75,6 +75,9 @@ Prêmios
 
 Apresentações em Congressos e Seminários
 ======
+* <b> 2022 - Apresentação de Paper </b>
+  * Análise de Redes Sociais e Ciências Sociais: um mapeamento da produção brasileira
+  * [46º Encontro anula da ANPOCS - Seminário Temático 07: Ciências Sociais Computacionais](https://www.encontro2022.anpocs.com/atividade/view?q=YToyOntzOjY6InBhcmFtcyI7czozNjoiYToxOntzOjEyOiJJRF9BVElWSURBREUiO3M6MzoiMTM0Ijt9IjtzOjE6ImgiO3M6MzI6ImE1NDM1YjRjYzcyZmMyMDNkMjk2ODhiNDI2NzRlNTJlIjt9&ID_ATIVIDADE=134)
 * <b>2022 - Apresentação de Pôster</b>
   * Bots on Social Media: Theoretical and Methodological Challenges for the Field of Political Behavior and Communication
   * [Session 11 - Bridging the gap of computational structural and hermeneutic approaches in discourse analysis](https://gcsmus.org/conferences/brazil/sessions/11-bridging-the-gap-of-computational-structural-and-hermeneutic-approaches-in-discourse-analysis/)
