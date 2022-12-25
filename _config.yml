@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Amanda Freitas Carnaiba"
-  avatar           : "profile.jpg"
+  avatar           : "https://github.com/freitasamanda/freitasamanda.github.io/blob/main/images/profile.jpg"
   bio              : "Brazilian - MA Student in Political Science (USP, University of São Paulo) - BA Social Sciences (UNIFESP, Federal University of São Paulo)"
   location         : "Brazil"
   employer         :
