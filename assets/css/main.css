@@ -1,0 +1,108 @@
+/*
+Theme Name: Joana Mertz
+
+  1. >>> Headr Style
+  2. >>> Banner Style
+  4. >>> Project Style
+  5. >>> Footer Style
+
+*/
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------*/
+:root {
+	--font_14:0.875rem;
+	--font_16:1rem;
+	--font_30:1.875rem;
+	--font_36:2.25rem;
+	--font_48:3rem;
+	--40:2.5rem;
+	--30:1.875rem;
+	--margin_30:1.875rem;
+	--margin-54:3.375rem;
+	--margin-60:3.75rem;
+	--margin-100:6.25rem;
+	--margin-120:7.5rem;   
+}
+html {font-family: 'Inter', sans-serif;background-color:#FFF}
+body {font-family: 'Inter', sans-serif;overflow-x: hidden; background-color:#FFF; font-weight:400;font-style: normal; color: #000; font-size: var(--font_14)}
+a,a:hover,a:focus,i,input,button,input:focus,.transition {text-decoration: none;outline: none;transition-delay: 0s;transition-duration: 0.4s;transition-property: all;transition-timing-function: ease;box-shadow: none;}
+a{color: #000}
+iframe {border: 0;outline: none;}
+::-moz-selection {background: var(--red);text-shadow: none;color:var(--white)}
+::selection {background:var(--red);text-shadow: none;color:var(--white)}
+img {max-width: 100%;border: none;outline: none;height: auto;}
+input,textarea {border-radius: 0;resize: none;}
+ul {padding: 0;margin: 0;}
+@font-face {
+font-family: 'Inter', sans-serif;}
+input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {background-color: transparent;background-image: none;color:#000;}
+/* 1.2 Typography */
+h1,h2,h3,h4,h5,h6 {font-family: 'Inter', sans-serif;}
+figure{ margin: 0 }
+svg,img { max-width: 100%; height: auto; }
+
+/*-----------------------------------------------------------------
+  1. >>> Headr Style
+----------------------------------------------------------------*/
+.ds-header{ padding-top:5.875rem; padding-bottom: 9.125rem; position: relative;  }
+.ds-logo{ text-align: center; }
+.ds-logo a{display: inline-block; color: #000; font-size:0.875rem; text-transform: uppercase; letter-spacing:13px; font-weight: 600; border-bottom: 1px solid #C8D7DF; padding-bottom: 14px }
+.ds-closebutton{ position: absolute; left:0; right: 0; margin: 0 auto; margin-top:2.75rem;  border-radius: 100%; border: 1px solid #687278; width: 64px;height: 64px; line-height: 64px; color: #687278; font-size: 1.875rem }
+.ds-closebutton:hover{ background-color: #687278; color: #FFF  }
+.ds-pge-wrap{ margin-bottom:100px }
+.ds-sticky{position: sticky;top: 0; padding-top: 10px}
+
+.ds-left-section figure{ margin-bottom: 2.5rem }
+.ds-socail span{ display: block; font-weight: 600; font-size: 1.125rem  }
+.ds-socail ul{ list-style: none; padding: 0; margin: 0; display: flex; align-items: center;font-size: 1.125rem }
+.ds-socail ul li{ margin-right: 20px; margin-top: 10px;}
+.ds-socail ul li:last-child{ margin-right: 0 }
+.ds-socail ul li a:hover{color: #000; text-decoration: underline;}
+
+.ds-heading{ font-weight: 600; font-size: 3rem; line-height: 3.6875rem; margin-bottom:42px }
+.ds-heading-2{ font-weight: 600; font-size: 1.5rem; line-height: 3.6875rem; padding-top: 2px; border-top: solid 0.2px;}
+.ds-info-sectio-wrp{ padding-left:2.5rem  }
+.ds-info-sectio p,.ds-project-details p{font-size: 1.125rem; line-height: 2.25rem; margin-bottom: 20px}
+
+.ds-info-list-section{ margin-top:5.625rem  }
+.ds-info-list-section h3{font-size: 1.125rem;font-weight: 600; margin-bottom: 25px}
+.ds-info-list-section ul{ list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; justify-content: space-between; }
+.ds-info-list-section ul li{ width: 50%;font-size: 1.125rem; margin-bottom: 10px }
+.ds-info-list-section ul li a{ text-decoration: underline; }
+.ds-info-list-section ul li a:hover{ text-decoration: none; color: #000 }
+
+.ds-pr-info{ display: block;font-size: 1.125rem; font-weight: 600; margin-bottom: 40px }
+.ds-main-image{ margin-bottom: 10.0625rem }
+.ds-list-image{ margin-top:4.375rem }
+.ds-margin-bottom-70{ margin-bottom:4.375rem }
+.ds-footer{ padding-bottom: 120px;padding-top:50px; text-align: center; }
+.ds-footer a:hover{ color: #000; text-decoration: underline; }
+/*-------------------------------------------------------------------------------
+ XS Style @media (max-width: 767px) 
+-------------------------------------------------------------------------------*/
+@media (max-width: 767px) {
+.ds-header{padding-top: 2.875rem;padding-bottom: 3.125rem;}
+.ds-info-sectio-wrp{ padding-left: 0; padding-top:1.875rem  }
+.ds-heading{font-size: 2rem;line-height: 2.6875rem;margin-bottom: 20px;}
+.ds-info-list-section ul li{width: 100%}
+.ds-info-list-section{margin-top: 2.625rem;}
+.ds-pge-wrap{ margin-bottom: 50px }
+.ds-footer{padding-bottom: 80px;}
+.ds-closebutton{ position: static; display: block; }
+.ds-main-image{margin-bottom: 3.0625rem;}
+.ds-pr-info{ margin-bottom: 10px }
+.ds-list-image{margin-top: 2.375rem;}
+.ds-margin-bottom-70{ margin-bottom:2.375rem;  }
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+	.ds-heading{font-size: 2rem;line-height: 2.6875rem;}
+	.ds-info-list-section ul li{width: 100%}
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+
+}

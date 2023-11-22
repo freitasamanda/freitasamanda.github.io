@@ -1,0 +1,6 @@
+
+adicionar imagens nas páginas secundárias
+
+                <figure class="ds-main-image">
+                  <img src="assets/images/details-image-1.png">
+                </figure>
