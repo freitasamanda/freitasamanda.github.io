@@ -73,7 +73,7 @@ svg,img { max-width: 100%; height: auto; }
 .ds-info-list-section ul li a:hover{ text-decoration: none; color: #000 }
 
 .ds-pr-info{ display: block;font-size: 1.125rem; font-weight: 600; margin-bottom: 40px }
-.ds-main-image{ margin-bottom: 10.0625rem }
+.ds-main-image{ margin-bottom: 2rem }
 .ds-list-image{ margin-top:4.375rem }
 .ds-margin-bottom-70{ margin-bottom:4.375rem }
 .ds-footer{ padding-bottom: 120px;padding-top:50px; text-align: center; }
