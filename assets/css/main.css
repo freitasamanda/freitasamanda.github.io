@@ -108,6 +108,11 @@ svg,img { max-width: 100%; height: auto; }
 
 /* Estilo geral da lista */
 .skills-list {
+  font-family: 'Inter', sans-serif;
+  font-weight:400;
+  font-style: normal;
+  color: #000;
+  font-size: var(--font_14);
   padding-left: 24px;       /* Recuo à esquerda para os marcadores (bullets) */
   list-style-type: disc;    /* Mantém os círculos de tópicos visíveis */
 }
@@ -117,10 +122,6 @@ svg,img { max-width: 100%; height: auto; }
   /* 1. line-height: controla a distância entre as linhas da mesma frase.
         Valores entre 1.5 e 1.7 tornam o texto confortável para ler. */
   line-height: 1.6;
-
   /* 2. margin-bottom: cria o espaço vertical que separa um tópico do seguinte. */
   margin-bottom: 20px;
-
-  /* Cor do texto para garantir bom contraste */
-  color: #222222;
 }
