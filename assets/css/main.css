@@ -104,5 +104,24 @@ svg,img { max-width: 100%; height: auto; }
 
 @media (min-width: 992px) and (max-width: 1199px) {
 
-
 }
+
+/*-- Estilos CSS para aumentar o espaçamento -->*/
+  /* Espaçamento geral da lista */
+	.skills-list {
+    /* Define o tipo de fonte para manter legível */
+    font-family: Arial, sans-serif;
+    padding-left: 20px;
+  }
+
+  /* Cada item individual da lista (<li>) */
+	.skills-list li {
+    /* 1. line-height: Aumenta a distância entre linhas do mesmo texto */
+    line-height: 1.6;
+
+    /* 2. margin-bottom: Cria o espaço entre um tópico e o de baixo */
+    margin-bottom: 18px;
+
+    /* Ajuste de cor do texto (opcional) */
+    color: #222222;
+  }
