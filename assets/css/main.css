@@ -60,9 +60,9 @@ svg,img { max-width: 100%; height: auto; }
 .ds-socail ul li:last-child{ margin-right: 0 }
 .ds-socail ul li a:hover{color: #000; text-decoration: underline;}
 
-.ds-heading{ font-weight: 600; font-size: 3rem; line-height: 3.6875rem; margin-bottom:42px }
-.ds-heading-2{ font-weight: 600; font-size: 1.5rem; line-height: 3.6875rem; padding-top: 2px; border-top: solid 0.2px;}
-.ds-info-sectio-wrp{ padding-left:2.5rem  }
+.ds-heading{font-weight: 600; font-size: 3rem; line-height: 3.6875rem; margin-bottom:42px }
+.ds-heading-2{font-weight: 600; font-size: 1.5rem; line-height: 3.6875rem; padding-top: 2px; border-top: solid 0.2px;}
+.ds-info-sectio-wrp{padding-left:2.5rem  }
 .ds-info-sectio p,.ds-project-details p{font-size: 1.125rem; line-height: 2.25rem; margin-bottom: 20px}
 
 .ds-info-list-section{ margin-top:5.625rem  }
@@ -107,12 +107,7 @@ svg,img { max-width: 100%; height: auto; }
 }
 
 /* Estilo geral da lista */
-.skills-list {
-  font-family: 'Inter', sans-serif;
-  font-weight:400;
-  font-style: normal;
-  color: #000;
-  font-size: var(--font_14);
+.skills-list {font-family: 'Inter', sans-serif;overflow-x: hidden; background-color:#FFF; font-weight:400;font-style: normal; color: #000; font-size: var(--font_14);
   padding-left: 24px;       /* Recuo à esquerda para os marcadores (bullets) */
   list-style-type: disc;    /* Mantém os círculos de tópicos visíveis */
 }
