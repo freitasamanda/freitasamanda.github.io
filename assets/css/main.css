@@ -116,7 +116,7 @@ svg,img { max-width: 100%; height: auto; }
 }
 
 /* Regras aplicadas a cada item individual (<li>) */
-.skills-list li {
+.skills-list li {font-size: 1.125rem; line-height: 2.25rem; margin-bottom: 20px;
   /* 1. line-height: controla a distância entre as linhas da mesma frase.
         Valores entre 1.5 e 1.7 tornam o texto confortável para ler. */
   line-height: 1.6;
