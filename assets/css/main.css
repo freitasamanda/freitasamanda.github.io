@@ -107,7 +107,8 @@ svg,img { max-width: 100%; height: auto; }
 }
 
 /* Estilo geral da lista */
-.skills-list {font-family: 'Inter', sans-serif;overflow-x: hidden; background-color:#FFF; font-weight:400;font-style: normal; color: #000; font-size: var(--font_14);
+.skills-list {font-size: 1.125rem; line-height: 2.25rem; margin-bottom: 20px;
+	font-family: 'Inter', sans-serif;overflow-x: hidden; background-color:#FFF; font-weight:400;font-style: normal; color: #000; font-size: var(--font_14);
   padding-left: 24px;       /* Recuo à esquerda para os marcadores (bullets) */
   list-style-type: disc;    /* Mantém os círculos de tópicos visíveis */
 }
