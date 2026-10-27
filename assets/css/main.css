@@ -53,7 +53,7 @@ svg,img { max-width: 100%; height: auto; }
 .ds-pge-wrap{ margin-bottom:100px }
 .ds-sticky{position: sticky;top: 0; padding-top: 10px}
 
-.ds-profile-image{border-radius: 100%}
+.foto-perfil{border-radius: 60%; object-position: center top; border: 1px solid #FFF}
 
 .ds-left-section figure{ margin-bottom: 2.5rem }
 .ds-socail span{ display: block; font-weight: 600; font-size: 1.125rem  }
