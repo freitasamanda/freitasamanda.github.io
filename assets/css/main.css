@@ -47,7 +47,7 @@ svg,img { max-width: 100%; height: auto; }
 ----------------------------------------------------------------*/
 .ds-header{ padding-top:5.875rem; padding-bottom: 9.125rem; position: relative;  }
 .ds-logo{ text-align: center}
-.ds-logo a{display: inline-block; color: #000; font-size:1rem; text-transform: uppercase; letter-spacing:13px; font-weight: 600; border-bottom: 1px solid #C8D7DF; padding-bottom: 14px }
+.ds-logo a{display: inline-block; color: #47494a; font-size: 1.5rem; text-transform: uppercase; letter-spacing:13px; font-weight: 600; border-bottom: 1px solid #C8D7DF; padding-bottom: 14px }
 .ds-closebutton{ position: absolute; left:0; right: 0; margin: 0 auto; margin-top:2.75rem;  border-radius: 100%; border: 1px solid #687278; width: 64px;height: 64px; line-height: 64px; color: #687278; font-size: 1.875rem }
 .ds-closebutton:hover{ background-color: #687278; color: #FFF  }
 .ds-pge-wrap{ margin-bottom:100px }
@@ -65,7 +65,7 @@ svg,img { max-width: 100%; height: auto; }
 .ds-heading{font-weight: 600; font-size: 3rem; line-height: 3.6875rem; margin-bottom:42px }
 .ds-heading-2{font-weight: 600; font-size: 1.5rem; line-height: 3.6875rem; padding-top: 2px; border-top: solid 0.2px;}
 .ds-info-sectio-wrp{padding-left:2.5rem  }
-.ds-info-sectio p,.ds-project-details p{font-size: 1.125rem; line-height: 2.25rem; margin-bottom: 20px}
+.ds-info-sectio p,.ds-project-details p{font-size: 1rem; line-height: 2.25rem; margin-bottom: 20px}
 
 .ds-info-list-section{ margin-top:5.625rem  }
 .ds-info-list-section h3{font-size: 1.125rem;font-weight: 600; margin-bottom: 25px}
@@ -98,7 +98,6 @@ svg,img { max-width: 100%; height: auto; }
 .ds-margin-bottom-70{ margin-bottom:2.375rem;  }
 }
 
-
 @media (min-width: 768px) and (max-width: 991px) {
 	.ds-heading{font-size: 2rem;line-height: 2.6875rem;}
 	.ds-info-list-section ul li{width: 100%}
@@ -109,17 +108,146 @@ svg,img { max-width: 100%; height: auto; }
 }
 
 /* Estilo geral da lista */
-.skills-list {font-size: 1.125rem; line-height: 2.25rem; margin-bottom: 20px;
+.skills-list {font-size: 1rem; line-height: 2.25rem; margin-bottom: 20px;
 	font-family: 'Inter', sans-serif;overflow-x: hidden; background-color:#FFF; font-weight:400;font-style: normal; color: #000; font-size: var(--font_14);
   padding-left: 24px;       /* Recuo à esquerda para os marcadores (bullets) */
   list-style-type: disc;    /* Mantém os círculos de tópicos visíveis */
 }
 
 /* Regras aplicadas a cada item individual (<li>) */
-.skills-list li {font-size: 1.125rem; line-height: 2.25rem; margin-bottom: 20px;
+.skills-list li {font-size: 1rem; line-height: 2.25rem; margin-bottom: 20px;
   /* 1. line-height: controla a distância entre as linhas da mesma frase.
         Valores entre 1.5 e 1.7 tornam o texto confortável para ler. */
   line-height: 1.6;
   /* 2. margin-bottom: cria o espaço vertical que separa um tópico do seguinte. */
   margin-bottom: 20px;
+}
+
+/*links dropdown*/
+.accordion-header {
+  list-style: none;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 16px 20px;
+  cursor: pointer;
+  user-select: none;
+  outline: none;
+}
+
+.accordion-item{border: none}
+
+.accordion-titulo {
+  font-size: 1.2rem;
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  color: #000000;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+.accordion-titulo:hover {
+  color: #bcbaba;
+}
+
+/* setinha */
+.accordion-seta {
+  display: inline-block;
+  font-size: 1.2rem;/* Tamanho reduzido para manter o triângulo discreto */
+  line-height: 1;/* Garante alinhamento vertical perfeito */
+  color: #000000;/* Cor cinzenta neutra quando fechado */
+  transition: transform 0.3s ease, color 0.3s ease; /* Animação suave */
+}
+/* Quando a secção abre, o triângulo gira 180° apontando para cima */
+.accordion-item[open] .accordion-seta {
+  transform: rotate(180deg);/* Rotação vertical completa */
+}
+
+.accordion-seta:hover {
+  color: #bcbaba;/* Cor preta ao passar o mouse */
+}
+
+/* ==========================================================
+   ESTILOS EXCLUSIVOS PARA EXPERIÊNCIAS E PUBLICAÇÕES
+   ========================================================== */
+
+/* --- Bloco de Experiências (Timeline) --- */
+.timeline-item {
+  padding-bottom: 18px;
+  margin-bottom: 18px;
+  border-bottom: 1px solid #f1f5f9; /* Linha sutil separando cada cargo */
+}
+
+.timeline-item:last-child {
+  border-bottom: none;              /* Remove a borda do último item */
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.role-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #0f172a;
+  margin-bottom: 4px;
+}
+
+.role-meta {
+  display: inline-block;
+  font-size: 0.85rem;
+  color: #64748b;
+  margin-bottom: 10px;
+}
+
+.role-desc {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: #334155;
+}
+
+/* --- Bloco de Publicações --- */
+.publications-list {
+  list-style-type: none; /* Sem bullets para deixar com aspecto de artigos */
+  padding: 0;
+}
+
+.publications-list li {
+  padding-bottom: 18px;
+  margin-bottom: 18px;
+  border-bottom: 1px solid #f1f5f9;
+}
+
+.publications-list li:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.publications-list strong {
+  display: block;
+  font-size: 1rem;
+  color: #0f172a;
+  margin-bottom: 4px;
+}
+
+.pub-meta {
+  display: inline-block;
+  font-size: 0.85rem;
+  color: #64748b;
+  margin-bottom: 8px;
+}
+
+.pub-link {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #2563eb;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.pub-link:hover {
+  text-decoration: underline;
+  color: #1d4ed8;
 }
