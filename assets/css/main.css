@@ -46,8 +46,8 @@ svg,img { max-width: 100%; height: auto; }
   1. >>> Headr Style
 ----------------------------------------------------------------*/
 .ds-header{ padding-top:5.875rem; padding-bottom: 9.125rem; position: relative;  }
-.ds-logo{ text-align: center; }
-.ds-logo a{display: inline-block; color: #000; font-size:0.875rem; text-transform: uppercase; letter-spacing:13px; font-weight: 600; border-bottom: 1px solid #C8D7DF; padding-bottom: 14px }
+.ds-logo{ text-align: center}
+.ds-logo a{display: inline-block; color: #000; font-size:1rem; text-transform: uppercase; letter-spacing:13px; font-weight: 600; border-bottom: 1px solid #C8D7DF; padding-bottom: 14px }
 .ds-closebutton{ position: absolute; left:0; right: 0; margin: 0 auto; margin-top:2.75rem;  border-radius: 100%; border: 1px solid #687278; width: 64px;height: 64px; line-height: 64px; color: #687278; font-size: 1.875rem }
 .ds-closebutton:hover{ background-color: #687278; color: #FFF  }
 .ds-pge-wrap{ margin-bottom:100px }
