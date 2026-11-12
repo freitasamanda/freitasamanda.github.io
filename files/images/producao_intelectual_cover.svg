@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450">
+  <defs>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d4d0ea"/>
+      <stop offset="100%" stop-color="#b8b4d6"/>
+    </linearGradient>
+    <linearGradient id="desk" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#c8c4e0"/>
+      <stop offset="100%" stop-color="#a8a4c8"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2a2650"/>
+      <stop offset="60%" stop-color="#1e1a40"/>
+      <stop offset="100%" stop-color="#16133a"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#7b78c8" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#5a57a8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="450" fill="url(#bg)"/>
+
+  <!-- Soft ambient blobs -->
+  <ellipse cx="200" cy="150" rx="220" ry="160" fill="#c0bce0" opacity="0.5" filter="url(#blur)"/>
+  <ellipse cx="620" cy="300" rx="180" ry="140" fill="#a8a4d0" opacity="0.4" filter="url(#blur)"/>
+
+  <!-- Group: notebook scene, blurred -->
+  <g filter="url(#blur)">
+    <!-- Desk surface -->
+    <rect x="80" y="310" width="640" height="90" rx="4" fill="url(#desk)" opacity="0.9"/>
+
+    <!-- Laptop base -->
+    <rect x="210" y="295" width="380" height="30" rx="6" fill="#8886b8"/>
+    <!-- Laptop hinge -->
+    <rect x="224" y="288" width="352" height="10" rx="3" fill="#7a78b0"/>
+    <!-- Laptop screen back -->
+    <rect x="215" y="130" width="370" height="168" rx="10" fill="#6e6ca8"/>
+    <!-- Screen bezel -->
+    <rect x="224" y="138" width="352" height="152" rx="6" fill="#3a3870"/>
+    <!-- Screen content -->
+    <rect x="232" y="146" width="336" height="136" rx="4" fill="url(#screen)"/>
+
+    <!-- Screen glow / content lines -->
+    <rect x="248" y="162" width="200" height="8" rx="4" fill="#c8f169" opacity="0.7"/>
+    <rect x="248" y="178" width="280" height="5" rx="3" fill="#9090d8" opacity="0.5"/>
+    <rect x="248" y="190" width="240" height="5" rx="3" fill="#9090d8" opacity="0.4"/>
+    <rect x="248" y="202" width="260" height="5" rx="3" fill="#9090d8" opacity="0.4"/>
+    <rect x="248" y="220" width="150" height="5" rx="3" fill="#9090d8" opacity="0.3"/>
+    <rect x="248" y="232" width="220" height="5" rx="3" fill="#9090d8" opacity="0.3"/>
+    <rect x="248" y="248" width="180" height="5" rx="3" fill="#9090d8" opacity="0.3"/>
+
+    <!-- Keyboard -->
+    <rect x="224" y="302" width="352" height="22" rx="4" fill="#7a78b0" opacity="0.9"/>
+    <!-- Key rows -->
+    <g fill="#9896c8" opacity="0.7">
+      <rect x="234" y="306" width="20" height="6" rx="2"/>
+      <rect x="258" y="306" width="20" height="6" rx="2"/>
+      <rect x="282" y="306" width="20" height="6" rx="2"/>
+      <rect x="306" y="306" width="20" height="6" rx="2"/>
+      <rect x="330" y="306" width="20" height="6" rx="2"/>
+      <rect x="354" y="306" width="20" height="6" rx="2"/>
+      <rect x="378" y="306" width="20" height="6" rx="2"/>
+      <rect x="402" y="306" width="20" height="6" rx="2"/>
+      <rect x="426" y="306" width="20" height="6" rx="2"/>
+      <rect x="450" y="306" width="20" height="6" rx="2"/>
+      <rect x="474" y="306" width="20" height="6" rx="2"/>
+      <rect x="498" y="306" width="20" height="6" rx="2"/>
+      <!-- spacebar -->
+      <rect x="296" y="315" width="208" height="6" rx="2"/>
+    </g>
+
+    <!-- Person (simplified silhouette) -->
+    <!-- Head -->
+    <ellipse cx="400" cy="82" rx="38" ry="40" fill="#5c5a90" opacity="0.85"/>
+    <!-- Neck -->
+    <rect x="386" y="118" width="28" height="20" rx="6" fill="#5c5a90" opacity="0.8"/>
+    <!-- Shoulders / torso -->
+    <path d="M280 300 Q320 128 400 136 Q480 128 520 300 Z" fill="#4e4c80" opacity="0.75"/>
+    <!-- Arms reaching to keyboard -->
+    <path d="M295 240 Q270 290 260 308" stroke="#5c5a90" stroke-width="22" fill="none" stroke-linecap="round" opacity="0.75"/>
+    <path d="M505 240 Q530 290 540 308" stroke="#5c5a90" stroke-width="22" fill="none" stroke-linecap="round" opacity="0.75"/>
+    <!-- Hands -->
+    <ellipse cx="258" cy="310" rx="18" ry="10" fill="#5c5a90" opacity="0.75"/>
+    <ellipse cx="542" cy="310" rx="18" ry="10" fill="#5c5a90" opacity="0.75"/>
+  </g>
+
+  <!-- Screen glow overlay (not blurred, adds depth) -->
+  <rect x="232" y="146" width="336" height="80" rx="4" fill="url(#glow)" opacity="0.3"/>
+
+  <!-- Overall soft overlay to unify and desaturate slightly -->
+  <rect width="800" height="450" fill="#b0aed8" opacity="0.15"/>
+</svg>
