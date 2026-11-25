@@ -323,7 +323,7 @@ export const EDUCATION_AND_CERTS: ExperienceItem[] = [
     certificateLinks: [
       {
         label: 'Ver credencial',
-        href: 'https://www.credential.net/0e3f5c1b-7d8e-4f6b-9c2e-1f2e3b4c5d6e',
+        href: 'https://www.credly.com/badges/12e65c34-a6c9-4212-8b76-711de945dcc8/linked_in_profile',
       },
     ],
   },
