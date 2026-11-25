@@ -1,0 +1,99 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Fraunces", Georgia, serif;
+  --font-sans: "Outfit", -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --color-canvas: #EEEEE6;
+  --color-surface: #F7F7F2;
+  --color-surface-warm: #E5E4DA;
+  --color-terracotta: #D65E33;
+  --color-terracotta-deep: #B44822;
+  --color-terracotta-ink: #9E3D1B;
+  --color-ink: #1E1B18;
+  --color-ink-muted: #57514B;
+  --color-hairline: #D8D6CC;
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    background-color: var(--color-canvas);
+    color: var(--color-ink);
+    scroll-padding-top: 5.5rem;
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-display);
+    font-variation-settings: "SOFT" 65, "WONK" 0;
+    text-wrap: balance;
+  }
+
+  a:focus-visible,
+  button:focus-visible {
+    outline: 2px solid var(--color-terracotta-deep);
+    outline-offset: 3px;
+    border-radius: 4px;
+  }
+}
+
+/* Subtle editorial link underline animation */
+.nav-link-underline {
+  position: relative;
+}
+
+.nav-link-underline::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 100%;
+  height: 1.5px;
+  background-color: var(--color-terracotta);
+  transform: scaleX(0);
+  transform-origin: left center;
+  transition: transform 180ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.nav-link-underline:hover::after,
+.nav-link-underline:focus-visible::after,
+.nav-link-underline[data-active="true"]::after {
+  transform: scaleX(1);
+}
+
+/* Organic blob gentle drift on hover (compositor-only) */
+.organic-float-a {
+  transition: transform 320ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+.organic-float-b {
+  transition: transform 360ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+.organic-float-c {
+  transition: transform 400ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.group:hover .organic-float-a {
+  transform: translate3d(-6px, -4px, 0) rotate(-3deg);
+}
+.group:hover .organic-float-b {
+  transform: translate3d(7px, 3px, 0) rotate(2.5deg);
+}
+.group:hover .organic-float-c {
+  transform: translate3d(-4px, 6px, 0) rotate(-2deg);
+}
+
+/* Reduced motion compliance */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
